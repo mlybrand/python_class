@@ -1,0 +1,4 @@
+If you don't have the C:\Python27\Scripts mapped in your environment variable:
+	python django-admin.py startproject Madness1
+
+Modify the "settings.py" file in the newly created "Madness1" folder. (Or whatever your project-name is.)
